@@ -1,7 +1,6 @@
 //--Blibliotecas
 #include <RTClib.h>
-
-
+#include <SoftwareSerial.h>
 
 
 void setup() {
